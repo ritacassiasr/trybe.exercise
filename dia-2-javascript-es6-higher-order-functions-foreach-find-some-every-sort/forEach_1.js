@@ -17,6 +17,7 @@ function studentsResult() {
     })
 }
 studentsResult();
+console.log(students);
 
 
 
